@@ -1,0 +1,25 @@
+{
+  "englishName": "Madrid Church of Christ",
+  "pages": {
+    "index.html": {
+      "es": {
+        "title": "Iglesia de Cristo en Madrid | Las Rosas · Domingos 10:30",
+        "description": "Iglesia de Cristo en Madrid. Culto dominical a las 10:30 en Paseo de Ginebra 35, local 2. Metro Las Rosas, línea 2. Biblia, oración y canto a capela.",
+        "url": "https://idc-madrid.org/"
+      },
+      "en": {
+        "title": "Madrid Church of Christ | Las Rosas · Sundays 10:30 a.m.",
+        "description": "Visit Madrid Church of Christ at Paseo de Ginebra 35, local 2. Sunday worship at 10:30 a.m. near Las Rosas Metro, Line 2. Bible study, prayer and a cappella singing.",
+        "url": "https://idc-madrid.org/en/"
+      }
+    }
+  },
+  "imageAlts": {
+    "aviles-galiana.jpg": "Arcaded buildings on Calle Galiana in Avilés old town",
+    "community-gathering.jpg": "People gathered around tables during a talk",
+    "salinas-coast.jpg": "La Peñona and Salinas beach, near Avilés in Asturias",
+    "aviles-san-nicolas-heritage.jpg": "San Nicolás de Bari, a historic Roman Catholic church in Avilés, not our meeting place",
+    "science-god-seminar-flyer.jpg": "Science and God seminar flyer with dates, time, speaker and venue",
+    "madrid-gran-via.jpg": "Gran Vía in Madrid at sunset"
+  }
+}

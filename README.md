@@ -27,3 +27,8 @@ License: https://creativecommons.org/licenses/by-sa/4.0/
 ## Local preview
 
 Run `python -m http.server 8766 --bind 127.0.0.1` from this folder.
+
+## Search and language pages
+
+Canonical production: https://idc-madrid.org/
+Spanish HTML is at the root; `/en/` serves pre-rendered English. After editing root HTML or translation strings in `app.js`, run `python build_locales.py` (Python 3 + beautifulsoup4 and Node.js), then commit generated `en/` files. No build is required on GitHub Pages. Keep canonical, hreflang and sitemap URLs on the production origin. No passwords belong in this public repository.
