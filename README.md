@@ -6,7 +6,10 @@ Spanish and English website for Iglesia de Cristo en Madrid / Madrid Church of C
 - Sunday worship: 10:30 a.m., Madrid local time.
 - Meeting place: Paseo de Ginebra 35, local 2, Madrid, Spain.
 - Metro: Line 2, Las Rosas. Use the elevator exit and go to the street behind the elevator.
-- Public contact: Ángel Bravo, +34 660 00 76 73.
+- Public contacts:
+  - Ángel Bravo, +34 666 00 76 73.
+  - Omar, +34 603 33 24 55.
+  - Leonel, +34 658 54 18 41.
 
 ## Publishing
 
