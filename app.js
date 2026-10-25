@@ -44,6 +44,7 @@ Object.assign(english,{
   "worshipEncouragementVerse2": "1 Corinthians 14:26-40 ↗"
 });
 Object.assign(english,{welcomeCopy:english.welcomeCopy+" We are Madrid Church of Christ, meeting near Las Rosas Metro for worship and Bible study."});
+Object.assign(english,{"photosLabel": "OUR COMMUNITY AND MEETING PLACE", "photosTitle": "Recognize us<br>when you arrive.", "photosIntro": "We meet at Paseo de Ginebra 35, local 2. Look for the “Eventos Metropolitano” sign on the facade and our Iglesia de Cristo board beside the entrance. Sundays, 10:30 a.m.–12:30 p.m., Madrid local time.", "visitPhotos": "See the entrance and meeting room ↗", "photoCaption1": "Our community", "photoCaption2": "The meeting-place entrance", "photoCaption3": "Look for our church board", "photoCaption4": "The facade from the street"});
 const nodes=[...document.querySelectorAll('[data-i18n]')];
 const spanish=Object.fromEntries(nodes.map(n=>[n.dataset.i18n,n.innerHTML]));
 const menu=document.querySelector('.menu-toggle');

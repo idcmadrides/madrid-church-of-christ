@@ -6,3 +6,13 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button{transition:none}}
 
 .worship{border-bottom:1px solid var(--line)}.worship-heading{display:grid;grid-template-columns:1fr 1fr;gap:12%;align-items:start;margin-bottom:48px}.worship-heading>div:last-child{padding-top:5px}.worship-heading>div:last-child>p{font-size:14px;line-height:1.9;max-width:430px}.worship-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:44px 40px}.worship-grid article{border-top:1px solid #c4bcaf;padding-top:21px}.worship-number{font-family:var(--serif);font-size:17px;font-style:italic;color:var(--clay)}.worship-grid h3{margin:16px 0 14px}.worship-grid article>p{font-size:13px;line-height:1.9}.worship-grid strong{font-weight:600;color:var(--ink)}.worship-references{display:flex;flex-wrap:wrap;gap:8px 17px;margin-top:18px}.worship-references .verse-link{margin-top:0;line-height:1.9}.worship-read{font-size:11px;margin-top:35px}.faq-list p a{text-decoration:underline;text-underline-offset:3px}@media(max-width:1100px){.worship-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:35px}}@media(max-width:760px){.worship-heading{grid-template-columns:1fr;gap:24px;margin-bottom:33px}.worship-heading>div:last-child{padding:0}.worship-heading>div:last-child>p{font-size:13px}.worship-grid{grid-template-columns:1fr;gap:29px}.worship-grid h3{font-size:22px;margin:12px 0}.worship-grid article>p{font-size:13px}.worship-read{font-size:10px;margin-top:28px}}
+
+.meeting-photos{background:var(--sand);border-bottom:1px solid var(--line)}
+.photos-heading{display:grid;grid-template-columns:1fr 1fr;gap:12%;align-items:start;margin-bottom:42px}
+.photos-heading>p{font-size:14px;line-height:1.9;padding-top:8px;max-width:450px}
+.photos-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:34px}
+.photos-grid figure{min-width:0}.photos-grid picture{display:block}
+.photos-grid img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+.photos-grid figcaption{font-size:12px;color:var(--ink);margin-top:12px}
+.visit-photo-link{margin-top:20px;font-size:11px;gap:0}
+@media(max-width:760px){.photos-heading{grid-template-columns:1fr;gap:22px;margin-bottom:30px}.photos-heading>p{padding-top:0;font-size:13px}.photos-grid{grid-template-columns:1fr;gap:27px}}
